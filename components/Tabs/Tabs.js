@@ -75,7 +75,6 @@ class TabCard {
 }
 
 // START HERE:
-
 // - Select all classes named ".tab" and assign that value to the tabs variable
 let tabs = document.querySelectorAll(".tab");
 // console.log(tabs);
